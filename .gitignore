@@ -13,3 +13,5 @@ CLAUDE.md
 .vscode/
 .claude/
 tests/
+
+!Package.swift
